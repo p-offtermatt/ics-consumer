@@ -1,7 +1,7 @@
 {
   "ics": {
     "spawn_time": "2024-07-07T13:48:00Z",
-    "title": "consumerd",
+    "title": "philip",
     "summary": ".md description of your chain and all other relevant information",
     "chain_id": "newchain-1",
     "initial_height": {
@@ -36,7 +36,7 @@
     "target_launch_date": "2024-07-07T13:48:00Z",
     "logo": "https://example.com/logo.png",
     "website": "https://example.com",
-    "description": "A short description of your project",
+    "description": "Philips chain :)",
     "short_description": "A short description of your project",
     "whitepaper": "https://example.com/whitepaper.pdf",
     "contact": {
