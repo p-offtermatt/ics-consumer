@@ -24,8 +24,8 @@
     "denylist": []
   },
   "token": {
-    "display_denom": "UCONSU",
-    "denom": "uconsu",
+    "display_denom": "UPHIL",
+    "denom": "uphil",
     "decimals": 6,
     "inflation": "0.10",
     "initial_supply": "1000000000000000000",
